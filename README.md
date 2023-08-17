@@ -78,6 +78,22 @@ _[Click](https://bjitacademy.com/) here for more details._
 3. **Launch the Application:** Open the index.html file in your web browser.
 `open index.html`
 
+### Usage
+ - **Search for Restaurants:** Use the search functionality to find dining options based on your preferences.
+ - **Explore Restaurant Profiles:** Click on a restaurant to view its detailed profile, including menu items and reviews.
+ - **Read and Write Reviews:** Share your dining experiences by leaving reviews and ratings for restaurants.
+ - **Save Favourites:** Create an account to save your favourite restaurants and receive personalized recommendations.
+ - **Get Directions:** Click on the map integration to get directions to the selected restaurant.
+
+Thank you to the following contributors who have helped to improve this project:
+| Name        | Email                | Phone          |
+|-------------|----------------------|----------------|
+| Mahfuj Ahmed Jim | mahfuj.jim@bjitacademy.com | 01500000000 |
+| Pallab Majumdar | pallab.majumdar@bjitacademy.com | 01600000000 |
+| Sanjay Kumar | sanjay.kumar@bjitacademy.com | 01900000000 |
+| Mahtab Ullah Sani | mahtab.sani@bjitacademy.com | 01800000000 |
+| Yasmin Nadia | yasmin.nadia@bjitacademy.com | 017 |
+
 
 # Contact Information
 *For any inquiries or support, please email us at support@localdiningguide.com or visit our 
